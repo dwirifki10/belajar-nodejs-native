@@ -1,0 +1,21 @@
+{
+  "name": "belajar-nodejs-native",
+  "version": "1.0.0",
+  "description": "Belajar Node JS Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwirifki10/belajar-nodejs-native.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwirifki10/belajar-nodejs-native/issues"
+  },
+  "homepage": "https://github.com/dwirifki10/belajar-nodejs-native#readme"
+}
